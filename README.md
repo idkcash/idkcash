@@ -1,16 +1,31 @@
-### Hi there 👋
+# ca$h#5389
 
-<!--
-**idkcash/idkcash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://discord.gg/326mc9TdxU"><img src="banner.jpg" alt="cashbanner"></a>
+</p>
 
-Here are some ideas to get you started:
+*Previous* founder of __Eden XVIT__, a community for fellow programmer to privately share their scripts and projects. **We do not faciliate any dangerous items to undertake any outrageous activities**. We share ideas with each other and feel free to dm me via discord for link and download of __EDENXVIT.exe__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/idkcash">
+    <img src="https://discord.c99.nl/widget/theme-2/910157944274964562.png"/>
+     </a>
+</p>
+
+# Stats
+![views](https://komarev.com/ghpvc/?username=idkcash&color=lightgrey) <br>
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkcash&layout=compact&theme=radical) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=idkcash&show_icons=true&theme=radical)
+
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="https://linktr.ee/idkcash">linktree</a> .
+    <a href="https://discord.gg/326mc9TdxU">discord</a> .
+    <a href="https://cash.cf">webiste</a> .
+    <a href="https://en.wikipedia.org/wiki/User:Cashhhineir">wikipedia</a> .
+    <a href="https://cash.cf/">blog</a> .
+    <a href="https://www.freecodecamp.org/cashheir">fcc</a> .
+    <a href="https://gitlab.com/idkcash">github</a>
+  </samp>
+</p>
