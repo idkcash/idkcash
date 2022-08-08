@@ -4,7 +4,7 @@
   <a href="https://discord.gg/326mc9TdxU"><img src="banner.jpg" alt="cashbanner"></a>
 </p>
 
-*Previous* founder of __Eden XVIT__, a community for fellow programmer to privately share their scripts and projects, dm me on discord if you want to participate in our community. note that confirmation to qualify might require personal information particularly age, name, and, location. You will not be forced to send or anything. If you feel uncomfortable to send any of your PI, you still might have chance to qualify in other ways. **We do not faciliate any dangerous items to undertake any outrageous activities**.
+*Previous* Founder of EDEN XVIT
 
 <p align="center">
   <a href="https://github.com/idkcash">
