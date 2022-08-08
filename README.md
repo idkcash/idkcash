@@ -4,7 +4,7 @@
   <a href="https://discord.gg/326mc9TdxU"><img src="banner.jpg" alt="cashbanner"></a>
 </p>
 
-*Previous* founder of __Eden XVIT__, a community for fellow programmer to privately share their scripts and projects. **We do not faciliate any dangerous items to undertake any outrageous activities**. We share ideas with each other and feel free to dm me via discord for link and download of __Eden xvit executables__
+*Previous* founder of __Eden XVIT__, a community for fellow programmer to privately share their scripts and projects. **We do not faciliate any dangerous items to undertake any outrageous activities**. We share ideas with each other and feel free to dm me via discord for link and download of __Eden Xvit Executables__
 
 <p align="center">
   <a href="https://github.com/idkcash">
