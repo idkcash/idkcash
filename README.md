@@ -1,7 +1,7 @@
 # ca$h#5389
 
 <p align="center">
-  <a href="https://discord.gg/326mc9TdxU"><img src="banner.jpg" alt="cashbanner"></a>
+  <a href="https://discord.gg/5HW4vtJH5C"><img src="banner.jpg" alt="cashbanner"></a>
 </p>
 
 *Previous* Founder of EDEN XVIT
@@ -22,10 +22,10 @@
   <samp>
     <a href="https://linktr.ee/idkcash">linktree</a> .
     <a href="https://discord.gg/326mc9TdxU">discord</a> .
-    <a href="https://cash.cf">webiste</a> .
+    <a href="https://cash.cf">website</a> .
     <a href="https://en.wikipedia.org/wiki/User:Cashhhineir">wikipedia</a> .
     <a href="https://cash.cf/">blog</a> .
     <a href="https://www.freecodecamp.org/cashheir">fcc</a> .
-    <a href="https://gitlab.com/idkcash">github</a>
+    <a href="https://github.com/idkcash">github</a>
   </samp>
 </p>
